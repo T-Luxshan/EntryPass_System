@@ -1,0 +1,4 @@
+# Ignore all files from these directories.
+
+.idea/
+Img/
