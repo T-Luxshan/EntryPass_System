@@ -13,7 +13,7 @@ def getInput():
 # Printing the Data
 def printEntry(no, name, place, category):
     print("                 Data Science In Tamil")
-    print("                  Anna Salai, Chennai")
+    print("                    Jaffna, Srilanka")
     print("                    on Data Science")
     print("                   E N T R Y P A S S")
     print("Pass No:", no)
@@ -55,7 +55,7 @@ report = input("Do you want Report <Y/N> :")  # Ask for report.
 if report.lower() == 'y':
     print("_" * 50)
     print("                 Data Science In Tamil")
-    print("                  Anna Salai, Chennai")
+    print("                    Jaffna, Srilanka")
     print("                    on Data Science")
     print("                      R E P O R T")
     print("No.of.Students:", student)
