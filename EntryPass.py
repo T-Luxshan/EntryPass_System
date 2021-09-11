@@ -23,10 +23,10 @@ def printEntry(no, name, place, category):
 
 
 # Initiate the Variables.
-participant = 99
-student = 58
-employee = 23
-un_employee = 17
+participant = 1
+student = 0
+employee = 0
+un_employee = 0
 participant_category = ['s', 'e', 'u', 'student', 'employee', 'unemployee']  # Category types.
 
 while participant <= 100:
